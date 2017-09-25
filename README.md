@@ -1,10 +1,12 @@
 # Chapter 3 
 
 <h3>Designing a Page Layout</h3>
-1) Download the chapter 3 repository
-2) Complete chapter 3 tutorial all files are located inside the repository.
-3) Complete the required case studies Case 1 and Case 2
-4) Push them to GitHub and Commit
+<ol>
+<li>Download the chapter 3 repository</li>
+<li>Complete chapter 3 tutorial all files are located inside the repository.</li>
+<li>Complete the required case studies Case 1 and Case 2</li>
+<li>Push them to GitHub and Commit</li>
+</ol>
 <hr>
 
 <h3>Objectives</h3>
