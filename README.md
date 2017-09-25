@@ -1,6 +1,10 @@
 # Chapter 3
 
 Designing a Page Layout
+1) Download the chapter 3 repository
+2) Complete chapter 3 tutorial all files are located inside the repository.
+3) Complete the required case studies
+
 
 <ol>
 <li>Create a reset style sheet</li>
