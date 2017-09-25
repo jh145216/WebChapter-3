@@ -3,9 +3,9 @@
 Designing a Page Layout
 1) Download the chapter 3 repository
 2) Complete chapter 3 tutorial all files are located inside the repository.
-3) Complete the required case studies
-
-
+3) Complete the required case studies Case 1 and Case 2
+4) Push them to GitHub and Commit
+<hr>
 <ol>
 <li>Create a reset style sheet</li>
 <li>Explore page layout designs</li>
